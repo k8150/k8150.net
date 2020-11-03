@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://romantic-varahamihira-32b5d9.netlify.app/"
 languageCode = "en-us"
 title = "K8150.NET"
 theme = "dimension"
