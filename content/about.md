@@ -6,7 +6,7 @@ weight = 1
 ### NAME: 
 koji haigo
 
-### BIRTH
+### BIRTH:
 1991.12.09
 
 ### LANG:
