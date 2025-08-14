@@ -1,9 +1,0 @@
-languageCode = "en-us"
-title = "K8150.NET"
-theme = "dimension"
-
-[params]
-  author = "koji haigo"
-  description = "The Dimension template from HTML5 UP adapted for Hugo static site generator."
-  copyrightPublishYear = "2020"
-  copyrightText = "<a href=\"https://github.com/k8150\" target=\"_blank\">koji haigo</a>"
